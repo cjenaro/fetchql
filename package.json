@@ -1,5 +1,5 @@
 {
-  "name": "@jenaroc/fetchql",
+  "name": "@cjenaro/fetchql",
   "version": "1.0.0",
   "description": "A GraphQL wrapper for browser's fetch",
   "main": "index.js",
