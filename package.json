@@ -1,0 +1,10 @@
+{
+  "name": "@jenaroc/fetchql",
+  "version": "1.0.0",
+  "description": "A GraphQL wrapper for browser's fetch",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "author": "@jenaroc",
+  "license": "MIT",
+  "private": false
+}

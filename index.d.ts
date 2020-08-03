@@ -1,0 +1,1 @@
+declare function fetchql(url: string, query: string, variables: object): Promise;
